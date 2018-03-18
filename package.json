@@ -1,0 +1,23 @@
+{
+  "name": "petri-net-api",
+  "version": "0.0.0",
+  "description": "petri-net-api",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FederalCircle/petri-net-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FederalCircle/petri-net-api/issues"
+  },
+  "homepage": "https://github.com/FederalCircle/petri-net-api#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3"
+  }
+}
